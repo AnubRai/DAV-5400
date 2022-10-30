@@ -1,0 +1,28 @@
+[
+    {
+        "Title": "Python Cookbook",
+        "Author": "TBrian K. Jones, David M. Beazley",
+        "ISBN": "978-1449340377",
+	"Price": "49.94",
+	"Edition": "3rd edition"
+	
+
+    },
+
+
+	{
+        "Title": "Python for Data Analysis",
+        "Author": "Wes McKinney ",
+        "ISBN": "978-1491957660",
+	"Price": "53.99",
+	"Edition": "2nd edition"
+    },
+    {
+        "Title": "Storytelling with Data",
+        "Author": "Cole Nussbaumer Knaflic",
+        "ISBN": "978-1119002253",
+	"Price": "29.55",
+	"Edition": "1st edition"
+    }
+
+]
