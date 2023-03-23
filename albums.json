@@ -1,0 +1,38 @@
+[
+  {
+    "Album Title": "The Slim Shady LP",
+    "Artist": "Eminem",
+    "Songs": [
+      "If I Had",
+      "Soap",
+      "My Fault",
+      "I'm Shady",
+      "Paul"
+    ],
+    "Year Released": 1999
+  },
+  {
+    "Album Title": "The Dark Side of the Moon",
+    "Artist": "Pink Floyd",
+    "Songs": [
+      "Speak to Me",
+      "Breathe",
+      "On the Run",
+      "Time",
+      "The Great Gig in the Sky"
+    ],
+    "Year Released": "1973"
+  },
+  {
+    "Album Title": "Sob Rock",
+    "Artist": "John Mayer",
+    "Songs": [
+      "Last Train Home",
+      "Wild Blue",
+      "Carry Me Away",
+      "Shot in the Dark",
+      "All I Want Is to Be with You"
+    ],
+    "Year Released": "2021"
+  }
+]
